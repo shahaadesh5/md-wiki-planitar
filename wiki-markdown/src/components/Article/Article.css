@@ -1,0 +1,31 @@
+.edit-button, .save-button, .cancel-button{
+    background-color: #4da3e1;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.save-button{
+    background-color: #28a745;
+}
+.cancel-button{
+    background-color: #dc3545;
+    margin-left: 20px;
+}
+.article-container{
+    margin-top: 20px;
+}
+.markdown-wrapper{
+    margin-top: 5px;
+    padding: 10px 5px 25px;
+    background-color: #ddd;
+}
+.button-wrapper{
+    margin-top: 25px;
+}
+.article{
+    padding: 0 40px;
+}

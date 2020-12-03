@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+    padding: 0;
+}
+.home{
+    padding: 0 40px;
+}
+li{
+    padding: 15px 10px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    transition: 0.5s ease all;
+}
+li:hover{
+    background-color: #ddd;
+    border-color: #ddd;
+}
+a{
+    text-decoration: none;
+    display: block;
+}
